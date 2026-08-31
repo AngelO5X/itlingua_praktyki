@@ -139,9 +139,3 @@ src/TutoringBackend.Api/
   Extensions/    - konfiguracja Identity/JWT/rate limiting/CORS
 ```
 
-## Co warto dodać później
-
-- 2FA
-- Reset hasła przez e-mail
-- Storage plików w chmurze zamiast dysku lokalnego
-- Testy integracyjne
