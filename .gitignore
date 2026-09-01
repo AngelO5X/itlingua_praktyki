@@ -4,3 +4,22 @@ obj/
 .vs/
 lesson-materials/
 appsettings.Production.json
+
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Logs & Environment variables
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.env*.local
+
+# Editor preferences
+.vscode/*
+!.vscode/extensions.json
+.idea/
